@@ -12,6 +12,7 @@ I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stac
 ## My Expertise
 
 - 5+ years of professional experience in the IT industry.
+- 2 years working as freelancer on remote basis.
 - **Wannabentrepreneur**
 - Passionate about **design** and **user experience**.
 - Highly **coachable** and **adaptable**, always looking for new challenges and opportunities.
