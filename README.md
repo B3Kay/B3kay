@@ -5,6 +5,8 @@ I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stac
 
 ![Cyclist](https://github.com/B3Kay/benjaminkarlsson.com/raw/main/static/asset/about/hogcykel.jpg)
 
+Beyond the digital realm, I craft physical things like the locally famous [2m tall bicycle](https://www.expressen.se/nyheter/benjamins-hemmabygge-en-tva-meter-hog-cykel/).
+
 ## Currently working on
 
 [The Buffet Diet](https://github.com/B3Kay/next-buffet-diet-webb-app) - A Google Maps competitor for people with specific diets.
