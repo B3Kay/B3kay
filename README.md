@@ -12,11 +12,24 @@ I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stac
 ## My Expertise
 
 - 5+ years of professional experience in the IT industry.
-- Great at **Typescript, React, Next.js, REST**.
+- **Wannabentrepreneur**
 - Passionate about **design** and **user experience**.
 - Highly **coachable** and **adaptable**, always looking for new challenges and opportunities.
-- **Team player** and experienced **tech lead**.
+- **Team player** and Frontend **lead**.
 - Strong **communication** and **collaboration** skills—I love sharing knowledge and learning from others.
+
+## Tech stack
+
+- **Typescript, React, Next.js, REST**.
+- State management, like **Redux, React hooks**.
+- HTML, CSS, Tailwind CSS
+- W3C standards, responsive design, and accessibility.
+- Design systems / UI frameworks.
+- Git & GitHub, Gitlab
+- CI/CD and pipelines.
+- UI/UX design and development.
+- Project management and collaboration.
+- Agile methodologies.
 
 ## Three words that define me
 
