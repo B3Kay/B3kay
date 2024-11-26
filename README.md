@@ -11,7 +11,7 @@ The Buffet Diet [(github/buffetdiet)](https://github.com/B3Kay/next-buffet-diet-
 
 ## About Benji
 
-I love crazyness, the odd people and the things outside of the ordinary.
+I love crazyness, odd people and the things outside of the ordinary.
 
 ![Cyclist](https://github.com/B3Kay/benjaminkarlsson.com/raw/main/static/asset/about/hogcykel.jpg)
 
