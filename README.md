@@ -9,7 +9,7 @@ Beyond the digital realm, I craft physical things like the locally famous [2m ta
 
 ## Currently working on
 
-[The Buffet Diet](https://github.com/B3Kay/next-buffet-diet-webb-app) - A Google Maps competitor for people with specific diets.
+The Buffet Diet [(github/buffetdiet)](https://github.com/B3Kay/next-buffet-diet-webb-app) - A hobby project and Google Maps competitor for people with specific diets. See the live website at [buffetdiet.com](https://www.buffetdiet.com/)
 
 ## My Expertise
 
