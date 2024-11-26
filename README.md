@@ -3,13 +3,15 @@
 
 I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stack developer, creator, and lifelong learner with over 5 years of experience in the IT industry. Originally from Sweden, I am currently based in Krakow, Poland.
 
+## Currently working on
+
+The Buffet Diet [(github/buffetdiet)](https://github.com/B3Kay/next-buffet-diet-webb-app) - A hobby project and Google Maps competitor for people with specific diets. See the live website at [buffetdiet.com](https://www.buffetdiet.com/)
+
+
 ![Cyclist](https://github.com/B3Kay/benjaminkarlsson.com/raw/main/static/asset/about/hogcykel.jpg)
 
 Beyond the digital realm, I craft physical things like the locally famous [2m tall bicycle](https://www.expressen.se/nyheter/benjamins-hemmabygge-en-tva-meter-hog-cykel/).
 
-## Currently working on
-
-The Buffet Diet [(github/buffetdiet)](https://github.com/B3Kay/next-buffet-diet-webb-app) - A hobby project and Google Maps competitor for people with specific diets. See the live website at [buffetdiet.com](https://www.buffetdiet.com/)
 
 ## My Expertise
 
