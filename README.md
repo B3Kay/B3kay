@@ -7,6 +7,9 @@ I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stac
 
 The Buffet Diet [(github/buffetdiet)](https://github.com/B3Kay/next-buffet-diet-webb-app) - A hobby project and Google Maps competitor for people with specific diets. See the live website at [buffetdiet.com](https://www.buffetdiet.com/)
 
+## About Benji
+
+I love crazyness, the odd people and the things outside of the ordinary.
 
 ![Cyclist](https://github.com/B3Kay/benjaminkarlsson.com/raw/main/static/asset/about/hogcykel.jpg)
 
