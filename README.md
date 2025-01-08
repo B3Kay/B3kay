@@ -1,7 +1,7 @@
 
 # Creetings, humans. 👋
 
-I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stack developer, creator, and lifelong learner with over 5 years of experience in the IT industry. Originally from Sweden, I am currently based in Krakow, Poland.
+I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stack developer, creator, and lifelong learner with over 5 years of experience in the IT industry.
 
 ## Currently working on
 
