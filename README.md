@@ -1,5 +1,5 @@
 
-# Creetings, humans. 👋
+# Greetings, humans. 👋
 
 I'm Benjamin Karlsson, a multifaceted individual wearing the hats of a full-stack developer, creator, and lifelong learner with over 5 years of experience in the IT industry.
 
