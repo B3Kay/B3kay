@@ -20,8 +20,9 @@ Beyond the digital realm, I craft physical things like the locally famous [2m ta
 
 ## My Expertise
 
-- 5+ years of professional experience in the IT industry.
-- 2 years working as freelancer on remote basis.
+- 1+ years trying my own venture. 🚀
+- 5+ years of professional experience in the IT industry. 🕹️
+- 4 years working as freelancer on remote basis. 👨‍💻
 - **Wannabentrepreneur**
 - Passionate about **design** and **user experience**.
 - Highly **coachable** and **adaptable**, always looking for new challenges and opportunities.
